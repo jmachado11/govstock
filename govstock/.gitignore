@@ -12,6 +12,7 @@
 
 # local environment variables
 .env.local
+.env.example
 
 # testing
 /coverage
