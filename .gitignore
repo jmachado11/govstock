@@ -15,7 +15,7 @@ node_modules
 
 # local environment variables
 .env.local
-
+.env
 # testing
 /coverage
 
